@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "273915064691",
+    "project_id": "metamatch-1280a",
+    "storage_bucket": "metamatch-1280a.appspot.com",
+    "database_url": "https://metamatch-1280a-default-rtdb.firebaseio.com/"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:273915064691:android:726ad656c3dfe142329506",
+        "android_client_info": {
+          "package_name": "com.altiereality.metamatch"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNNlBsD7HUifJb1PeuoSq5fnEcwkkA3-s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

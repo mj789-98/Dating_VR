@@ -10,6 +10,11 @@
 /[Ll]ogs/
 /[Uu]ser[Ss]ettings/
 
+# Ignore Firebase large files
+/Assets/Firebase/Plugins/x86_64/FirebaseCppApp-12_2_1.bundle
+/Assets/Firebase/Plugins/x86_64/FirebaseCppApp-12_2_1.so
+
+
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
 /[Mm]emoryCaptures/
